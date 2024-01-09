@@ -1110,17 +1110,6 @@
               "operator": "not",
               "operands": [
                 {
-                  "name": "noActivitySince",
-                  "parameters": {
-                    "days": 7
-                  }
-                }
-              ]
-            },
-            {
-              "operator": "not",
-              "operands": [
-                {
                   "name": "isCloseAndComment",
                   "parameters": {}
                 }
